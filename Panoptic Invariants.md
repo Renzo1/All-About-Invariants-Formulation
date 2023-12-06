@@ -8,7 +8,8 @@
 - Fees paid to a given user should not exceed the amount of fees earned by the liquidity owned by that user.
 
 
-## Others - SemiFungiblePositionManager
+## Others 
+### SemiFungiblePositionManager
 **Liquidity Conservation and Verification Invariants**
 
 *Invariant 1: Total Liquidity Integrity*
